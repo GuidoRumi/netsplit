@@ -14,8 +14,8 @@ HELLO_NODES="server1@127.0.0.1" iex --name server2@127.0.0.1 --cookie asdf -S mi
 
 Then you can alter our server state from server1 with
 
-```elixir Netsplit.Server.set_state("new state") ```
+```Netsplit.Server.set_state("new state") ```
 
 ant then on server2 you can check it's updated with
 
-```elixir Netsplit.Server.get_state() ```
+```Netsplit.Server.get_state() ```
