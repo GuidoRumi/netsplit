@@ -8,9 +8,9 @@ It's heavily based on [hello_world example form Horde](https://github.com/derekk
 
 For the most basic use case of distributed servers, you can start two separate terminals with:
 
-HELLO_NODES="server2@127.0.0.1" iex --name server1@127.0.0.1 --cookie asdf -S mix
+SERVER_NODES="server2@127.0.0.1" iex --name server1@127.0.0.1 --cookie asdf -S mix
 
-HELLO_NODES="server1@127.0.0.1" iex --name server2@127.0.0.1 --cookie asdf -S mix
+SERVER_NODES="server1@127.0.0.1" iex --name server2@127.0.0.1 --cookie asdf -S mix
 
 Then you can alter our server state from server1 with
 
