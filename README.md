@@ -1,6 +1,6 @@
 # Netsplit
 
-Sample application to simulate a netsplit and showcase [Horde] (https://github.com/derekkraan/horde/).
+Sample application to simulate a netsplit and showcase [Horde](https://github.com/derekkraan/horde/).
 
 It's heavily based on [hello_world example form Horde](https://github.com/derekkraan/horde/tree/master/examples/hello_world)
 
