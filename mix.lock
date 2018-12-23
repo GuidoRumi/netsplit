@@ -1,0 +1,5 @@
+%{
+  "delta_crdt": {:hex, :delta_crdt, "0.3.1", "a50bff0460da2d9b0559a68c0116bf8f0c3847de272bdce4a391aae2063902d3", [:mix], [], "hexpm"},
+  "horde": {:git, "https://github.com/derekkraan/horde.git", "78a2d65548c6aa479a9625e608280b0d36facc65", [branch: "master"]},
+  "xxhash": {:hex, :xxhash, "0.2.1", "ab0893a8124f3c11116c57e500485dc5f67817d1d4c44f0fff41f3fd3c590607", [:mix], [], "hexpm"},
+}
